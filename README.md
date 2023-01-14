@@ -9,7 +9,7 @@
 <p align="center">
   <a href="#languages-tools-and-technologies">Languages, Tools, and Technologies</a> •
   <a href="features">Features</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-use">How To Use</a> 
 </p>
 
 ## Languages, Tools, and Technologies
@@ -20,7 +20,7 @@ This algorithm was built entirely in Python.
 * The backtracking algorithm ensures the efficient and accurate solving of any Sudoku puzzle
 * Invalid puzzles will produce the message "No Solution"
 * Any perfect square dimension (4x4, 9x9, 16x16, etc.) puzzle can be solved
-* The program execution time in seconds will be displayed.
+* The program execution time in seconds will be displayed
 
 ## How To Use
 
