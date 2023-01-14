@@ -146,8 +146,7 @@ print("No Solution") if not solve(my_board) else print(solve(my_board))
 
 end = process_time() - start
 
-print("Solve Time: "+ end)
-
+print("Solved in "+ str(end) + " seconds")
 
     
 
