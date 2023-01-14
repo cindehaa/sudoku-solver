@@ -25,12 +25,12 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/downloads/), and an IDE. From the IDE terminal:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/downloads/), and an IDE.
 
-1. Clone this repository
+1. From the terminal, clone this repository:
 git clone https://github.com/cindehaa/sudoku-solver
 
-2. Go into the repository
+2. Go into the repository:
 sudoku-solver > sudoku_solver.py
 
 3. In line 10, fill in my_board with the board you'd like to solve. Alternatively, in line 145, replace my_board with any of the example boards (between lines 22 and 62)
