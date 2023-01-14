@@ -13,8 +13,7 @@
 </p>
 
 ## Languages, Tools, and Technologies
-
-* This algorithm was built entirely in Python.
+This algorithm was built entirely in Python.
 
 ## Features
 
