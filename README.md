@@ -24,7 +24,7 @@ This algorithm was built entirely in Python.
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Python](https://www.python.org/downloads/), and an IDE.
+To clone and run this application:
 
 1. From the terminal, clone this repository:
 git clone https://github.com/cindehaa/sudoku-solver
